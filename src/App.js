@@ -5,7 +5,9 @@ function App() {
   return (
     <div>
       <h1>Helllo, my react app !</h1>
-      <Button />
+      <Button text="start" />
+      <Button text="medium" />
+      <Button text="final" />
       <Input />
     </div>
   );
