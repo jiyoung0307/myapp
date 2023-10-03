@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.0ea52345.css","mappings":"AAAA,OACI,uBAAwB,CACxB,UACJ,CCHA,IAGI,UAAW,CAFX,cAAe,CACf,QAEJ","sources":["Button.css","App.css"],"sourcesContent":["button {\r\n    background-color: indigo;\r\n    color: white;\r\n}",".h1 {\r\n    font-size: 20px;\r\n    font: bold;\r\n    color: blue;\r\n}"],"names":[],"sourceRoot":""}

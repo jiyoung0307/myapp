@@ -1,8 +1,9 @@
 import PropTypes from 'prop-types';
+import './Button.css';
 
 function Button({text}) {
     return (
-        <button>
+        <button className='btn'>
             {text}
         </button>
     );
